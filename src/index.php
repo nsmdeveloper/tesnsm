@@ -1,5 +1,4 @@
 <?php
-
 require 'Base.php';
 require 'Child.php';
 
