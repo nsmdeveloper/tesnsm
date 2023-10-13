@@ -1,0 +1,19 @@
+{
+    "name": "testnsm/test",
+    "description": "Test Project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Testnsm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nsmdev",
+            "email": "nsmprogramador@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {}
+}
