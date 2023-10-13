@@ -1,10 +1,8 @@
 <?php
+require '../vendor/autoload.php';
 
-require 'Base.php';
-require 'Child.php';
-
-use Nsm\Base;
-use Nsm\Child;
+use Testnsm\Classes\Base;
+use Testnsm\Classes\Child;
 
 $base = new Base();
 $child = new Child();

@@ -1,5 +1,5 @@
 <?php
-namespace Nsm;
+namespace Testnsm\Classes;
 class Child extends Base {
 	public function __construct(){
 		parent::__construct();
